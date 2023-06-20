@@ -1,6 +1,6 @@
 # chat_screen_for
 
-A new Flutter project.
+A one on one chat application developed on flutter with addition feacture of adding and creating groups.
 
 ## Getting Started
 
